@@ -549,8 +549,8 @@ li {
   background-color: rgba(33, 150, 243, 0.9);
 }
 
-.item-thumb:hover .item-overlay,
-.item-thumb:focus .item-overlay {
+.examples-item:hover .item-thumb .item-overlay,
+.examples-item:focus .item-thumb .item-overlay {
   transform: translateY(0);
 }
 
